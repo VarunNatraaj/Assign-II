@@ -1,0 +1,1 @@
+Couldn't get a proper offline HTML file as the asset ('JSON file') was loaded over a rails server due to CORS issue. Upon opening "unitedroster.htm" in browser, you should be able to scroll down to a second iframe sort of panel when you can focus in/out to view the hierarchy of data.
